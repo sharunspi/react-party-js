@@ -1,0 +1,27 @@
+{
+  "name": "react-part-js",
+  "version": "0.0.1",
+  "description": "react based party animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharunspi/react-party-js.git"
+  },
+  "keywords": [
+    "react",
+    "react-party",
+    "celebration"
+  ],
+  "author": "sharunspi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharunspi/react-party-js/issues"
+  },
+  "homepage": "https://github.com/sharunspi/react-party-js#readme",
+  "dependencies": {
+    "party-js": "^2.0.1"
+  }
+}
