@@ -23,5 +23,18 @@
   "homepage": "https://github.com/sharunspi/react-party-js#readme",
   "dependencies": {
     "party-js": "^2.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5",
+    "@testing-library/react": "^12.0.0",
+    "@types/jest": "^27.0.0",
+    "@types/react": "^17.0.17",
+    "@types/react-dom": "^17.0.9",
+    "husky": "^7.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.5"
   }
 }
