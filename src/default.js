@@ -4,7 +4,7 @@ let defaults = {
     template : 'Confetti',
     Count: 10,
     Size: 10,
-    Spread: 10,
+    Spread: 10
 };
 
 function mergeOptions(options) {
